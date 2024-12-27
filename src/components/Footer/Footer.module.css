@@ -1,0 +1,23 @@
+
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 4rem 2rem 4rem;
+    height: 6rem;
+    background-color: var(--black-color);
+    border: 3px solid transparent;
+    border-image: linear-gradient(90deg, #5d0f34, #A91D3A, #901942) 1;
+    box-shadow: 0 -12px 15px rgba(120, 0, 0, 0.6);
+    position: relative;
+}
+
+
+.footer h1 {
+    color: #A91D3A;
+    font-family: var(--Bebas-Neue);
+    font-size: 3rem;
+}
+
+

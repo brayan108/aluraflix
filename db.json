@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
+      "categoria": "FRONT END",
+      "imagen": "https://i.ytimg.com/vi/UuAX5azcvDQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBv35TL2JpK7AdWOdaO3y-W5LdKwA",
+      "enlaceVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "id": "bb89d2c0-fdbd-4f0a-b0f4-0c21e293f0f2"
+    },
+    {
+      "id": "095a1de2-ad5e-4cb6-a61f-d63ac31f41da",
+      "titulo": "¿Por qué utilizar Java actualmente?",
+      "categoria": "BACK END",
+      "imagen": "https://i.ytimg.com/vi/3kNuK-XAHEY/maxresdefault.jpg",
+      "enlaceVideo": "https://www.youtube.com/watch?v=3kNuK-XAHEY",
+      "descripcion": "Java es una de las más conocidas tecnologías y se utiliza en millones de aplicaciones de software en todo el mundo. En este video, hablaremos de lo último en el lenguaje y la plataforma Java y de por qué debería ser tu elección para un próximo proyecto."
+    },
+    {
+      "titulo": "¿Qué es scrum?",
+      "categoria": "INNOVACIÓN Y GESTIÓN",
+      "imagen": "https://i.ytimg.com/vi/TttMvhj4uu4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvk0A5y99pc0dZeTIoNEnZ_GrwYw",
+      "enlaceVideo": "https://www.youtube.com/watch?v=TttMvhj4uu4",
+      "descripcion": "¿Conoces el método Scrum? Si no, tienes que quedarte en este video que nuestra invitada, Andyara, nos explicará que qué es este método, cuáles son sus beneficios y como implementarlo en tu empresa.",
+      "id": "4bc28ba9-e6fe-433f-bfca-631d10bd877c"
+    }
+  ]
+}
