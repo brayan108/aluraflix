@@ -63,3 +63,7 @@ Para eliminarlo, pudes darle al botón que dice eliminar, aparecerá un cuadro d
  - Si no se hace el paso 4 del proceso de instalación, la aplicación no se podrá conectar al servidor y no funcionará correctamente.
  - En el caso que no haya ningun video, ya sea porque no hay ninguno disponible o no se haya establecido la conexion al servidor, en el banner se mostrará una imagen por defecto, y en la sección de categorías,
    se le informará al usuario que no hay contenido disponible.
+
+
+## Agradecimientos especiales
+Quiero agradecer a mis instructores por todo el conocimiento y apoyo brindado durante este curso. Gracias a ustedes, he podido poner en práctica todo lo aprendido. Ha sido una experiencia enriquecedora y me siento más preparado para enfrentar nuevos desafíos. ¡Gracias por su dedicación y enseñanza!
