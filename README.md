@@ -9,20 +9,24 @@ Este proyecto fue propuesto como un reto por Alura Latam. se trata de una aplica
 Para instalar y usar este proyecto, puedes seguir estos pasos:
 
  1. Clona el repositorio:
+    
    ```
    git clone https://github.com/brayan108/aluraflix.git
    ```
 2. Abre el proyecto en Visual Studio Code.
 3. Abre el terminal en Visual Studio Code y ejecuta el siguiente comando:
+   
    ```
    rm -rf node_modules package-lock.json
    npm install
    ```
 4. Posteriormente, ejecuta el siguiente comando para iniciar JSON Server, que simula la base de datos de los videos:
+   
    ```
    npx json-server --watch db.json --port 3001
    ```
 5. y ejecuta este comando
+ 
    ```
    npm run dev
    ```
