@@ -1,10 +1,6 @@
 # Aluraflix
 
 
-
-
-
-
 ## Descripción
 Este proyecto fue propuesto como un reto por Alura Latam. se trata de una aplicación para agregar, editar, y eliminar videos con las categorías Front-end, Back-end e Innovación y Gestión.
 
