@@ -2,7 +2,7 @@
 
 
 ## Descripción
-Este proyecto fue propuesto como un reto por Alura Latam. se trata de una aplicación para agregar, editar, y eliminar videos con las categorias Front-end, Back-end e Innovación y Gestión.
+Este proyecto fue propuesto como un reto por Alura Latam. se trata de una aplicación para agregar, editar, y eliminar videos con las categorías Front-end, Back-end e Innovación y Gestión.
 
 
 ## Instalación
@@ -35,7 +35,7 @@ Para instalar y usar este proyecto, puedes seguir estos pasos:
 de esta manera, dará inicio la ejecución de la aplicación, despues, si quieres volver a utilizarla, el paso 3 ya no es necesario, solo sigue el paso 4 y 5.
 
 ## Como Usar
-Al ejecutar la aplicación, nos muestra cada categoria con sus videos asociados, si no hay ningun video asociado, no aprecera la categoria.
+Al ejecutar la aplicación, nos muestra cada categoria con sus videos asociados, si no hay ningun video asociado, no aprecera la categoría.
 
 #### Como agregar un video
 La interfaz dispone de una cabecera con 2 botones, en este caso presionaremos el botón que dice "Nuevo Video". nos redirigirá a una página que contiene un formulario, 
