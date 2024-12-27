@@ -320,7 +320,7 @@ const GlobalContextProvider = ({ children }) => {
 
   const validarImg = (imagen) => {
 
-    const extensionesValidas = ['.jpg', '.jpeg', '.png', '.gif', '.webp', 'img', 'images', 'imagen', 'image'];
+    const extensionesValidas = ['.jpg', '.jpeg', '.png', '.gif', '.webp', 'img', 'images', 'imagen', 'image', 'photo'];
 
     //Verifica si la URL incluye alguna de las opciones
     const esValida = extensionesValidas.some(extension => imagen.toLowerCase().includes(extension));
