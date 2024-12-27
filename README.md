@@ -67,3 +67,4 @@ Para eliminarlo, pudes darle al botón que dice eliminar, aparecerá un cuadro d
 
 ## Agradecimientos especiales
 Quiero agradecer a mis instructores por todo el conocimiento y apoyo brindado durante este curso. Gracias a ustedes, he podido poner en práctica todo lo aprendido. Ha sido una experiencia enriquecedora y me siento más preparado para enfrentar nuevos desafíos.
+Muchas gracias y bendiciones.
