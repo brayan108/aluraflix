@@ -37,7 +37,7 @@ Para instalar y usar este proyecto, puedes seguir estos pasos:
 de esta manera, dará inicio la ejecución de la aplicación, despues, si quieres volver a utilizarla, el paso 3 ya no es necesario, solo sigue el paso 4 y 5.
 
 ## Como Usar
-Al ejecutar la aplicación, nos muestra cada categoría con sus videos asociados con un formato estilo tarjeta, al presionar sobre esta, se abrirá una pestaña hacia el video seleccionado, si no hay ningun video asociado, no aprecera la categoría.
+Al ejecutar la aplicación, nos muestra cada categoría con sus videos asociados con un formato estilo tarjeta, al seleccionar una tarjeta, se abrirá una pestaña hacia el video seleccionado, si no hay ningun video asociado, no aprecerá la categoría.
 
 #### Como agregar un video
 La interfaz dispone de una cabecera con 2 botones, en este caso presionaremos el botón que dice "Nuevo Video". nos redirigirá a una página que contiene un formulario, 
