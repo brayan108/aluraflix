@@ -55,6 +55,9 @@ Para eliminarlo, pudes darle al botón que dice eliminar, aparecerá un cuadro d
 
 ## Aspectos importantes y consideraciones
  - En el banner de la página Home, si es que hay videos disponibles, aparecerá la imagen de un video junto con su titulo y descripción cada 5 segundos, al hacer click en la imagen, se abrirá una pestaña hacia el video seleccionado.
- - Si la pantalla es menor a 844 pixeles de ancho, no se mostrará ninguna información de videos en el banner, y la imagen de fondo se reemplazara.
+ - Si la pantalla es menor a 844 pixeles de ancho, no se mostrará ninguna información de videos en el banner, y la imagen de fondo se reemplazará por la imagen por defecto.
  - Los formularios tienen validaciones, si no se cumplen con ellas, no será posible agregar o editar una tarjeta.
  - Si el usuario viaja a una página que no existe, la aplicación mostrará una página para este caso.
+ - Si no se hace el paso 4 del proceso de instalación, la aplicacion no se podra conectar con el servidor y no funcionará correctamente.
+ - En el caso que no haya ningun video, ya sea porque no hay ninguno disponible o no se haya establecido la conexion al servidor, en el banner se mostrará una imagen por defecto, y en la sección de categorías,
+   se le informará al usuario que no hay contenido disponible.
