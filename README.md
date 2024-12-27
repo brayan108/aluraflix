@@ -8,6 +8,6 @@ Este proyecto fue propuesto como un reto por Alura Latam. se trata de una aplica
 ## Como Usar
 Al ejecutar la aplicación, nos muestra cada categoria con sus videos asociados, si no hay ningun video asociado, no aprecera la categoria.
 
-   ### Como agregar un video
+#### Como agregar un video
 
 
