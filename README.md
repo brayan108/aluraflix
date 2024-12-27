@@ -35,11 +35,11 @@ Para instalar y usar este proyecto, puedes seguir estos pasos:
 de esta manera, dará inicio la ejecución de la aplicación, despues, si quieres volver a utilizarla, el paso 3 ya no es necesario, solo sigue el paso 4 y 5.
 
 ## Como Usar
-Al ejecutar la aplicación, nos muestra cada categoria con sus videos asociados, si no hay ningun video asociado, no aprecera la categoría.
+Al ejecutar la aplicación, nos muestra cada categoria con sus videos asociados con un formato estilo tarjeta, al presionar sobre esta, se abrira una pestaña hacia el video seleccionado, si no hay ningun video asociado, no aprecera la categoría.
 
 #### Como agregar un video
 La interfaz dispone de una cabecera con 2 botones, en este caso presionaremos el botón que dice "Nuevo Video". nos redirigirá a una página que contiene un formulario, 
-para agregar un nuevo video, completaremos el formulario con la informacion solicitada. y posteriormente presionaremos el botón de "Guardar". 
+para agregar un nuevo video, completaremos el formulario con la información solicitada. y posteriormente presionaremos el botón de "Guardar". 
 de esta manera, se habrá agregado un nuevo video al servidor. para presenciarlo, presionaremos el botón "Home" de la cabecera. 
 
 
@@ -51,3 +51,10 @@ de esta manera, se editará la tarjeta.
 
 #### Como eliminar un video
 Para eliminarlo, pudes darle al botón que dice eliminar, aparecerá un cuadro de diálogo que te preguntará si deseas eliminar la tarjeta seleccionada, le das aceptar y posteriormete, la tarjeta se eliminará.
+
+
+# Aspectos importantes y consideraciones
+ - En el banner de la página Home, si es que hay videos disponibles, aparecerá la imagen de un video junto con su titulo y descripción cada 5 segundos, al hacer click a la imagen, se abrira una pestaña hacia el video seleccionado.
+ - Si la pantalla es menor a 844 pixeles de ancho, no se mostrará ninguna información de videos en el banner, y la imagen de fondo se reemplazara.
+ - Los formularios tienen validaciones, si no se cumplen con ellas, no será posible agregar o editar una tarjeta.
+ - Si el usuario viaja a una página que no existe, la aplicación mostrará una página para este caso.
