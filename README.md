@@ -54,7 +54,7 @@ Para eliminarlo, pudes darle al botón que dice eliminar, aparecerá un cuadro d
 
 
 ## Aspectos importantes y consideraciones
- - En el banner de la página Home, si es que hay videos disponibles, aparecerá la imagen de un video junto con su titulo y descripción cada 5 segundos, al hacer click a la imagen, se abrira una pestaña hacia el video seleccionado.
+ - En el banner de la página Home, si es que hay videos disponibles, aparecerá la imagen de un video junto con su titulo y descripción cada 5 segundos, al hacer click en la imagen, se abrirá una pestaña hacia el video seleccionado.
  - Si la pantalla es menor a 844 pixeles de ancho, no se mostrará ninguna información de videos en el banner, y la imagen de fondo se reemplazara.
  - Los formularios tienen validaciones, si no se cumplen con ellas, no será posible agregar o editar una tarjeta.
  - Si el usuario viaja a una página que no existe, la aplicación mostrará una página para este caso.
