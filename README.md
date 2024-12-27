@@ -5,6 +5,31 @@
 Este proyecto fue propuesto como un reto por Alura Latam. se trata de una aplicación para agregar, editar, y eliminar videos con las categorias Front-end, Back-end e Innovación y Gestión.
 
 
+## Instalación
+Para instalar y usar este proyecto, puedes seguir estos pasos:
+
+ 1. Clona el repositorio:
+   ```
+   git clone https://github.com/brayan108/aluraflix.git
+   ```
+2. Abre el proyecto en Visual Studio Code.
+3. Abre el terminal en Visual Studio Code y ejecuta el siguiente comando:
+  ```
+   rm -rf node_modules package-lock.json
+   npm install
+   ```
+4. Posteriormente, ejecuta el siguiente comando para iniciar JSON Server, que simula la base de datos de los videos:
+   ```
+   npx json-server --watch db.json --port 3001
+   ```
+5. y ejecuta este comando
+   ```
+   npm run dev
+   ```
+   Nota: asegurate de que tienes instalado Node.js para que lo anterior funcione, si no lo tienes, puedes descargarlo aquí https://nodejs.org/en
+
+de esta manera, dará inicio la ejecucion de la aplicación
+
 ## Como Usar
 Al ejecutar la aplicación, nos muestra cada categoria con sus videos asociados, si no hay ningun video asociado, no aprecera la categoria.
 
