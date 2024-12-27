@@ -50,7 +50,7 @@ de esta manera, se editará la tarjeta.
 
 
 #### Como eliminar un video
-Para eliminarlo, pudes darle al botón que dice eliminar, aparecerá un cuadro de diálogo que te preguntará si deseas eliminar la tarjeta seleccionada, le das aceptar y posteriormete, la tarjeta se eliminará.
+Para eliminarlo, pudes darle al botón que dice eliminar, aparecerá un cuadro de diálogo que te preguntará si deseas eliminar la tarjeta seleccionada, le das aceptar y posteriormente, la tarjeta se eliminará.
 
 
 ## Aspectos importantes y consideraciones
