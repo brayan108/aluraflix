@@ -46,8 +46,8 @@ de esta manera, se habrá agregado un nuevo video al servidor. para presenciarlo
 
 
 #### Como editar un video
-Cada vez que se cree un video, este se reflejará como una tarjeta o card, esta tarjeta dispone de 2 botones, uno para editar y otro para elimiar, si deseas editar una tarjeta, puedes darle
-al botón de editar, esto desplegará un modal con un formulario, que contendrá la información actual de la tarjeta seleccionada, puedes modificar la información que necesites y darle al botón de guardar.
+Cada vez que se cree un video, este se reflejará como una tarjeta o card, esta tarjeta dispone de 2 botones, uno para editar y otro para eliminar, si deseas editar una tarjeta, puedes darle
+al botón de editar, esto desplegará un modal con un formulario que contendrá la información actual de la tarjeta seleccionada, puedes modificar la información que necesites y darle al botón de guardar.
 de esta manera, se editará la tarjeta.
 
 
