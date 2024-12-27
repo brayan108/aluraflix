@@ -25,12 +25,12 @@ Para instalar y usar este proyecto, puedes seguir estos pasos:
    ```
    npx json-server --watch db.json --port 3001
    ```
-5. y ejecuta este comando
+5. Y ejecuta este comando
  
    ```
    npm run dev
    ```
-6. copia y pega en tu navegador la URL que te devuelve, normalmente es http://localhost:5173/
+6. Copia y pega en tu navegador la URL que te devuelve, normalmente es http://localhost:5173/
    
    Nota: asegurate de que tienes instalado Node.js para que lo anterior funcione, si no lo tienes, puedes descargarlo aquí https://nodejs.org/en
 
