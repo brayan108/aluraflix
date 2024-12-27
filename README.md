@@ -53,7 +53,7 @@ de esta manera, se editará la tarjeta.
 Para eliminarlo, pudes darle al botón que dice eliminar, aparecerá un cuadro de diálogo que te preguntará si deseas eliminar la tarjeta seleccionada, le das aceptar y posteriormete, la tarjeta se eliminará.
 
 
-# Aspectos importantes y consideraciones
+## Aspectos importantes y consideraciones
  - En el banner de la página Home, si es que hay videos disponibles, aparecerá la imagen de un video junto con su titulo y descripción cada 5 segundos, al hacer click a la imagen, se abrira una pestaña hacia el video seleccionado.
  - Si la pantalla es menor a 844 pixeles de ancho, no se mostrará ninguna información de videos en el banner, y la imagen de fondo se reemplazara.
  - Los formularios tienen validaciones, si no se cumplen con ellas, no será posible agregar o editar una tarjeta.
