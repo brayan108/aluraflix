@@ -1,8 +1,13 @@
-# React + Vite
+# Aluraflix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Descripción
+Este proyecto fue propuesto como un reto por Alura Latam. se trata de una aplicación para agregar, editar, y eliminar videos con las categorias Front-end, Back-end e Innovación y Gestión.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Como Usar
+Al ejecutar la aplicación, nos muestra cada categoria con sus videos asociados, si no hay ningun video asociado, no aprecera la categoria.
+
+  # Como agregar un video
+
+
