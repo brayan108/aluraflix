@@ -17,7 +17,6 @@ Para instalar y usar este proyecto, puedes seguir estos pasos:
 3. Abre el terminal en Visual Studio Code y ejecuta el siguiente comando:
    
    ```
-   rm -rf node_modules package-lock.json
    npm install
    ```
 4. Posteriormente, ejecuta el siguiente comando para iniciar JSON Server, que simula la base de datos de los videos:
